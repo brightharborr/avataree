@@ -13,6 +13,7 @@ BASE_MODELS=(
 # Extra models deployed only in eastus2 (includes gpt-image-2 and the rest of the list)
 # Format: "model-name|version|SKU|capacity"
 EASTUS2_EXTRA_MODELS=(
+  "gpt-image-2|2026-04-21|GlobalStandard|2"
   "gpt-6-astra|2026-09-03|GlobalStandard|1000"
   "gpt-6-sol|2026-09-22|GlobalStandard|1000"
   "gpt-6-luna|2026-09-22|GlobalStandard|1000"
