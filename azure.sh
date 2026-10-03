@@ -25,7 +25,6 @@ EASTUS2_EXTRA_MODELS=(
   "gpt-image-2.5-flare|2026-09-08|GlobalStandard|2"
   "gpt-image-2.5-sunburst|2026-09-08|GlobalStandard|2"
   "gpt-6.1-sol|2026-09-29|GlobalStandard|1000"
-  "gpt-5.4-pro|2026-03-05|GlobalStandard|1000"
 )
 
 # Azure built-in default content safety policy (Default V2, includes Jailbreak, cannot be relaxed)
